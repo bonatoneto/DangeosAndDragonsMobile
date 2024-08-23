@@ -2,7 +2,7 @@
 
 Trabalho Avaliativo de Desv Apps Móveis - Eng. de Software 2024.2 
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 
 Classes Principais:
 - **Personagem:** Representa o personagem do jogador, que é configurado com uma raça e uma classe.
